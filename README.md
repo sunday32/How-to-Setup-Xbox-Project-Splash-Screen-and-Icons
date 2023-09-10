@@ -11,10 +11,12 @@
 4. 
 5. 
 
+0. Additional Information
+
 ## Extra Table of Contents
 1. How to Setup Unity for Xbox Console or Universal Windows Platform
 2. How to Setup Xbox Project Main Menu, Pause Menu and Settings
-3. How to Setup Xbox Project Extras
+3. How to Setup Xbox Project Mutiplayer, Lobby, Host Game, Chat Messaging, Voice Chat, and Friends
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -24,7 +26,7 @@
 
 ## -- 1. 
 
-<img width="750" src="https://media.tenor.com/-Y2YOay3_JoAAAAM/its-friday-dancing.gif">
+<img width="100" src="https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Windows-Platform/blob/main/5.%20Setting%20Up%20Project%2C%20Connecting%20Unity%20and%20Finishing/Doit.gif">
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -38,7 +40,7 @@ https://github.com/sunday32/How-to-Setup-Unity-for-Xbox-Console-or-Universal-Win
 
 Link Coming Soon - https://github.com/sunday32/
 
-#### How to Setup Xbox Mutiplayer, Lobby, Host Game, Chat Messaging, Voice Chat, and Friends
+#### How to Setup Xbox Project Mutiplayer, Lobby, Host Game, Chat Messaging, Voice Chat, and Friends
 
 Link Coming Soon - https://github.com/sunday32/
 
